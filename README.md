@@ -24,7 +24,7 @@ use Jambase\Service\Jambase;
 Jambase::configure($apiKey);
 ```
 
-Send a new event
+Query the API
 ```php
 $simpleXMLResult = Jambase::search(array('band' => 'The Band'));
 ```
