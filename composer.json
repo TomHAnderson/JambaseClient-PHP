@@ -1,5 +1,5 @@
 {
-    "name": "jambase/jambase-tha",
+    "name": "jambase/jambase",
     "description": "A PHP library for the Jambase API",
     "type": "library",
     "license": "MIT",
