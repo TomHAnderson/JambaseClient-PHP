@@ -8,7 +8,7 @@ Installation
 
      ```json
      "require": {
-        "jambase/jambase-tha": "dev-master"
+        "jambase/jambase": "dev-master"
      }
      ```
   2. install composer via `curl -s http://getcomposer.org/installer | php` (on windows, download
